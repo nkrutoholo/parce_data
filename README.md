@@ -1,4 +1,4 @@
-# parce_data
+# parse_data
 Parse product from allo.ua
 
 # To parse
